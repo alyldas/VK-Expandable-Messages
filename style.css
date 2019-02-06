@@ -1,0 +1,11 @@
+.nim-dialog:hover.nim-dialog .nim-dialog--preview {
+    white-space: normal !important;
+}
+
+.nim-dialog:hover.nim-dialog.nim-dialog_classic .nim-dialog--cw {
+	height: inherit !important;
+}
+
+.nim-dialog:hover.nim-dialog.nim-dialog_classic {
+	height: auto !important;
+}
